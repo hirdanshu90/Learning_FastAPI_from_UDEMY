@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.example
+secrets.env
+*.db
+testdb.db
+todosapp.db
+.pytest_cache/
+.vscode/
+alembic/versions/
+docker-compose_test.yml
+*.log
